@@ -42,11 +42,11 @@ Für Entwickler besteht der Sinn und Zweck eines GitHub-Repositoriums darin, zu 
 
 Bevor Sie als Recruiter in diesen Code eintauchen, um zu überprüfen, wie sauber, lesbar und strukturiert er ist, sollten Sie zunächst simple Metriken überprüfen, wie beispielsweise
 
--	Die Anzahl der Follower (Anzeichen für den Ruf)
--	Das Datum, an dem der Kandidat GitHub beigetreten ist (ein nützlicher "zuletzt beigetretener" Filter existiert in den Sortieroptionen oben rechts), als Hinweis auf das Erfahrungsniveau
--	Relevante Schlüsselwörter für Sprachen und Technologien
--	Die Anzahl der Repositories, die Ihr Bewerber hat (Projekte, die er erstellt und was er von anderen mittels "forking" erhält), um ein Gefühl für die Art der Projekte zu bekommen, an denen er beteiligt ist
--	Ihre öffentliche Aktivität macht sich in der Anzahl der Beiträge bemerkbar, die auf der Website geleistet wurden (Pull-Anfragen, Commits, eröffnete Themen)
+-	Die **Anzahl der Follower** (Anzeichen für den Ruf)
+-	Das **Datum, an dem der Kandidat GitHub beigetreten ist** (ein nützlicher "zuletzt beigetretener" Filter existiert in den Sortieroptionen oben rechts), als Hinweis auf das Erfahrungsniveau
+-	**Relevante Schlüsselwörter** für Sprachen und Technologien
+-	Die **Anzahl der Repositories**, die Ihr Bewerber hat (Projekte, die er erstellt und was er von anderen mittels "forking" erhält), um ein Gefühl für die Art der Projekte zu bekommen, an denen er beteiligt ist
+-	Ihre öffentliche Aktivität macht sich in der **Anzahl der Beiträge** bemerkbar, die auf der Website geleistet wurden (Pull-Anfragen, Commits, eröffnete Themen)
 
 GitHub ist KEIN Lebenslauf. Es ist eine ideale Möglichkeit, einen Einblick in die Arbeitsproben der Entwickler zu erhalten, wie beispielsweise mobile Anwendungen, Spiele, Skripte, Plugins, etc. Aber vor allem können Sie sehen, wie Entwickler freiwillig mit Gleichgesinnten an gemeinsamen Projekten arbeiten.
 
