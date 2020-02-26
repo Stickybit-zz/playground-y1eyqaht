@@ -72,10 +72,10 @@ Letztlich besteht das Ziel dieser Übung nicht darin, ein perfekt konstruiertes,
 
 ## 5. Tests zur Programmierung
 
-Tests zur Programmierung gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
+[Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
 Sie bieten ein bewährtes Modell um kompetente Entwickler zu identifizieren und einzustellen. Die Kandidaten kodieren sich durch reale, praktische Probleme, die in einem Unternehmen auftreten können (wie beispielsweise das Auffinden eines Fehlers in einem defekten Teil eines Codes oder die ordnungsgemäße Synchronisierung einer Multithread-Anwendung), und ermöglichen es den Personalverantwortlichen, ihre Fähigkeiten im Bereich der Kodierung objektiv und effizient zu beurteilen.
 
-Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels CodinGame einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien (Java, Angular, Python usw.) testen möchten.
+Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/) einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python usw.) testen möchten.
 
 Der Code der Bewerber wird automatisch analysiert und den Personalverantwortlichen werden Leistungskennzahlen übermittelt. Diese Kennzahlen reichen von der Sprachbeherrschung bis hin zum Code-Design, der Lesbarkeit oder Solidity. Nach Beendigung der Analyse steht ein Testbericht zum Herunterladen und Austauschen zur Verfügung. So lassen sich die Kandidaten einfach miteinander vergleichen und in die engere Wahl ziehen.
 
