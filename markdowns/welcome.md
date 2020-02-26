@@ -11,7 +11,7 @@ Zweitens, weil die selbst genannten Fähigkeiten unzuverlässig sind - wenn Sie 
 Zahlreiche Fähigkeiten zeichnen einen talentierten Programmierer aus. Es sind jedoch die technischen Fähigkeiten, die Sie am akkuratesten einschätzen können.
 Hier sind fünf Möglichkeiten, die [Programmierfähigkeiten von Entwicklern zu überprüfen](https://www.codingame.com/work/guide-how-to-test-developers/), bevor Sie sie einstellen:
 
-## 1. Schauen Sie sich das Programmierer-Portfolio genauer an
+# 1. Schauen Sie sich das Programmierer-Portfolio genauer an
 
 Jeder leidenschaftliche Entwickler, mag er auch noch so jung sein, sollte über ein aussagekräftiges Portfolio verfügen.
 
@@ -32,7 +32,7 @@ Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung vo
 
 Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
 
-## 2. Werfen Sie einen Blick auf das GitHub-Profil
+# 2. Werfen Sie einen Blick auf das GitHub-Profil
 
 [GitHub](https://github.com/) ist eine wertvolle Ressource bei der Einstellung von Entwicklern. GitHub dient als ein Online-Showroom, wo Entwickler an Open-Source-Projekten arbeiten und zu den Initiativen anderer beitragen.
 
@@ -48,7 +48,7 @@ Bevor Sie als Recruiter in diesen Code eintauchen, um zu überprüfen, wie saube
 
 GitHub ist KEIN Lebenslauf. Es ist eine ideale Möglichkeit, einen Einblick in die Arbeitsproben der Entwickler zu erhalten, wie beispielsweise mobile Anwendungen, Spiele, Skripte, Plugins, etc. Aber vor allem können Sie sehen, wie Entwickler freiwillig mit Gleichgesinnten an gemeinsamen Projekten arbeiten.
 
-## 3. Fragen Sie nach der Verwendung von Stack Overflow
+# 3. Fragen Sie nach der Verwendung von Stack Overflow
 
 [Stack Overflow](https://stackoverflow.com/) ist im Grunde eine Frage- und Antwortseite rund um das Thema Computerprogrammierung.
 Entwickler können Fragen zu allem stellen und beantworten, was mit Programmierung zu tun hat, und aktive Mitglieder erhalten für ihre Antworten und Beiträge Punkte und Badges. Die Website enthält ein facettenreiches Wissen und jeder Entwickler wird sie täglich nutzen.
@@ -56,7 +56,7 @@ Entwickler können Fragen zu allem stellen und beantworten, was mit Programmieru
 Sie ist ideal dafür geeignet, um den Wissensstand eines Kandidaten und seine Beteiligung an der Entwicklergemeinschaft zu beurteilen. Sie können den Ruf der Entwickler bei Stack Overflow sowie ihre Top-Antworten schnell überprüfen.
 Die Reputationsrate ist umso objektiver, da sie von Gleichgesinnten gewährt wurde. Hochangesehene Benutzer bei Stack Overflow sind Entwickler, die erstens regelmäßig auf der Website aktiv sind, zweitens sachdienliche Fragen stellen und drittens, dank ihres Fachwissens hilfreiche Antworten geben.
 
-## 4. Live-Kodierung
+# 4. Live-Kodierung
 
 Da sie wahrscheinlich eine der härtesten und anstrengendsten Herausforderungen sind, denen Entwickler bei einem Rekrutierungsprozess begegnen können, werden Interviews mit Live-Coding oftmals verunglimpft.
 
@@ -70,7 +70,7 @@ Die Interviewer könnten sich dafür interessieren, welche Art von Fragen der Be
 
 Letztlich besteht das Ziel dieser Übung nicht darin, ein perfekt konstruiertes, ordentliches Stück Code zu produzieren (oder dies zu bewerten). In der Tat geht es bei der Live-Codierung darum, dass beide Parteien die Möglichkeit haben, in einer dynamischen, dialogorientierten Umgebung Verständnis füreinander zu entwickeln.
 
-## 5. Tests zur Programmierung
+# 5. Tests zur Programmierung
 
 [Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
 Sie bieten ein bewährtes Modell um kompetente Entwickler zu identifizieren und einzustellen. Die Kandidaten kodieren sich durch reale, praktische Probleme, die in einem Unternehmen auftreten können (wie beispielsweise das Auffinden eines Fehlers in einem defekten Teil eines Codes oder die ordnungsgemäße Synchronisierung einer Multithread-Anwendung), und ermöglichen es den Personalverantwortlichen, ihre Fähigkeiten im Bereich der Kodierung objektiv und effizient zu beurteilen.
