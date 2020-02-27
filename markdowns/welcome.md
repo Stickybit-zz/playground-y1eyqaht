@@ -5,7 +5,7 @@ Die Einschätzung der Programmierkenntnisse von Entwicklern ist inzwischen ein e
 Sie denken vermutlich: _"Moment mal, können Sie sich denn nicht auf die Lebensläufe der Entwickler verlassen?"_. Bedauerlicherweise, nein.
 
 
-[![Entwickler auf clevere Art und Weise einstellen](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/)
+[![Entwickler auf clevere Art und Weise einstellen](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067)
 
 
 Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu verkaufen - es könnte sein, dass Ihnen am Ende großartige Bewerber entgehen, weil sie auf dem Papier nicht auffallen.
@@ -13,7 +13,7 @@ Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu ver
 Zweitens, weil die selbst genannten Fähigkeiten unzuverlässig sind - wenn Sie Ihre Hoffnungen auf einen glänzenden Lebenslauf setzen, könnten Sie von jemandem enttäuscht werden, der Ihren Erwartungen nicht ganz entspricht.
 
 Zahlreiche Fähigkeiten zeichnen einen talentierten Programmierer aus. Es sind jedoch die technischen Fähigkeiten, die Sie am akkuratesten einschätzen können.
-Hier sind fünf Möglichkeiten, die [Programmierfähigkeiten von Entwicklern zu überprüfen](https://www.codingame.com/work/guide-how-to-test-developers/), bevor Sie sie einstellen:
+Hier sind fünf Möglichkeiten, die [Programmierfähigkeiten von Entwicklern zu überprüfen](https://www.codingame.com/work/guide-how-to-test-developers/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067), bevor Sie sie einstellen:
 
 # 1. Schauen Sie sich das Programmierer-Portfolio genauer an
 
@@ -27,7 +27,7 @@ Achten Sie darauf, wie ein Kandidat den Kontext jedes Projekts beschreibt: Wie h
 
 Gute Kommunikationsfähigkeiten werden sich in einer Entwicklerrolle stets auszahlen. Mit einem Portfolio kann man auch die Fähigkeit eines Kandidaten prüfen, Dinge zu erklären und zu präsentieren.
 
-Zudem können das Durchschauen des Portfolios eines Kandidaten sowie das Eindringen  in den Quellcode einiger Projekte vor einem [Vorstellungsgespräch](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) als Gesprächsgrundlage dienen. Es kann Ihnen helfen, spezielle Fragen zu erstellen, die Sie während des Einstellungsverfahrens verwenden können.
+Zudem können das Durchschauen des Portfolios eines Kandidaten sowie das Eindringen  in den Quellcode einiger Projekte vor einem [Vorstellungsgespräch](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) als Gesprächsgrundlage dienen. Es kann Ihnen helfen, spezielle Fragen zu erstellen, die Sie während des Einstellungsverfahrens verwenden können.
 
 Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
 
@@ -76,10 +76,10 @@ Letztlich besteht das Ziel dieser Übung nicht darin, ein perfekt konstruiertes,
 
 # 5. Tests zur Programmierung
 
-[Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
+[Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
 Sie bieten ein bewährtes Modell um kompetente Entwickler zu identifizieren und einzustellen. Die Kandidaten kodieren sich durch reale, praktische Probleme, die in einem Unternehmen auftreten können (wie beispielsweise das Auffinden eines Fehlers in einem defekten Teil eines Codes oder die ordnungsgemäße Synchronisierung einer Multithread-Anwendung), und ermöglichen es den Personalverantwortlichen, ihre Fähigkeiten im Bereich der Kodierung objektiv und effizient zu beurteilen.
 
-Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/) einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python usw.) testen möchten.
+Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python usw.) testen möchten.
 
 Der Code der Bewerber wird automatisch analysiert und den Personalverantwortlichen werden Leistungskennzahlen übermittelt. Diese Kennzahlen reichen von der Sprachbeherrschung bis hin zum Code-Design, der Lesbarkeit oder Solidity. Nach Beendigung der Analyse steht ein Testbericht zum Herunterladen und Austauschen zur Verfügung. So lassen sich die Kandidaten einfach miteinander vergleichen und in die engere Wahl ziehen.
 
@@ -94,4 +94,4 @@ Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktisch
 
 Bedenken Sie unseren Ratschlag, wenn Sie Ihre nächsten Entwickler suchen: Verzichten Sie auf das Rätselraten und seien Sie bei Ihrer Kandidatenwahl auf der sicheren Seite.
 
-[![Werkzeug zur Bewertung der Programmierfähigkeiten](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
+[![Werkzeug zur Bewertung der Programmierfähigkeiten](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067)
