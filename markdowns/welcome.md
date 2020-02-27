@@ -1,10 +1,10 @@
-![Foo](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
+![Fähigkeiten von Testentwicklern](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
 
 Die Einschätzung der Programmierkenntnisse von Entwicklern ist inzwischen ein entscheidender Schritt in jedem technischen Rekrutierungsprozess. In einer [von uns durchgeführten Studie](https://www.codingame.com/work/tech-recruiting-survey-report-2019/) haben wir ermittelt, dass die primäre Herausforderung für 60% der Personalverantwortlichen bei der Einstellung von Programmierern darin bestand, Kandidaten zu finden, die angemessen qualifiziert sind. In der Tat ist die Mehrheit der Fehlbesetzungen bei der Rekrutierung auf einen Mangel technischer Fähigkeiten zurückzuführen.
 
 Sie denken vermutlich: _"Moment mal, können Sie sich denn nicht auf die Lebensläufe der Entwickler verlassen?"_. Bedauerlicherweise, nein.
 
-[<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/)
+[!Entwickler auf clevere Art und Weise einstellen](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/)
 
 Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu verkaufen - es könnte sein, dass Ihnen am Ende großartige Bewerber entgehen, weil sie auf dem Papier nicht auffallen.
 
