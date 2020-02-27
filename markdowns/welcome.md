@@ -4,7 +4,11 @@ Die Einschätzung der Programmierkenntnisse von Entwicklern ist inzwischen ein e
 
 Sie denken vermutlich: _"Moment mal, können Sie sich denn nicht auf die Lebensläufe der Entwickler verlassen?"_. Bedauerlicherweise, nein.
 
+
+
 [![Entwickler auf clevere Art und Weise einstellen](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/)
+
+
 
 Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu verkaufen - es könnte sein, dass Ihnen am Ende großartige Bewerber entgehen, weil sie auf dem Papier nicht auffallen.
 
