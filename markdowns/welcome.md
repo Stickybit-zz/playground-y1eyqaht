@@ -92,4 +92,4 @@ Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktisch
 
 Bedenken Sie unseren Ratschlag, wenn Sie Ihre nächsten Entwickler suchen: Verzichten Sie auf das Rätselraten und seien Sie bei Ihrer Kandidatenwahl auf der sicheren Seite.
 
-[![Coding Skill Assessment Tool](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
+[![Werkzeug zur Bewertung der Programmierfähigkeiten](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
