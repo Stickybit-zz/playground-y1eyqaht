@@ -28,7 +28,7 @@ Boas habilidades de comunicação sempre valem a pena na função de desenvolved
 
 Por fim, analisando o portfólio de um candidato, pesquisando o código-fonte de alguns projetos antes de uma [entrevista](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/), pode servir de base para o diálogo e ajudá-lo a elaborar perguntas personalizadas para usar durante o processo de contratação.
 
-![Veja bem o portfólio de programação de seus candidatos] (https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
+![Veja bem o portfólio de programação de seus candidatos](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
 
 Uma boa olhada no portfólio de programação de um candidato fornece uma ideia de suas habilidades de codificação e experiência
 
