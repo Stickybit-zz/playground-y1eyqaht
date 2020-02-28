@@ -40,7 +40,8 @@ En el caso de los desarrolladores, la clave de tener un repositorio GitHub es po
 Como encargado de la selección de personal, antes de explorar el orden, legibilidad y estructura de un código, debes analizar otros factores, tales como:
 
 - La **cantidad de seguidores** (un signo de prestigio).
-- La **fecha en que el candidato se unió a GitHub** (existe un filtro útil llamado “usuarios recientes” en las opciones de clasificación en el extremo superior derecho) indica su nivel de experiencia.- **Palabras clave relevantes** para idiomas y tecnologías.
+- La **fecha en que el candidato se unió a GitHub** (existe un filtro útil llamado “usuarios recientes” en las opciones de clasificación en el extremo superior derecho) indica su nivel de experiencia.
+- **Palabras clave relevantes** para idiomas y tecnologías.
 - **cantidad de repositorios** que tiene tu candidato (proyectos que creó y aquellos en los que participa) para saber en qué tipo de proyectos se involucra.
 - La actividad pública a través de la **cantidad de contribuciones** hechas al sitio (peticiones de integración, confirmaciones, temas abiertos).
 
