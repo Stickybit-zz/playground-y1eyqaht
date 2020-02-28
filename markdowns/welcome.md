@@ -14,7 +14,7 @@ Uma variedade de habilidades contribui para um programador talentoso - mas as ha
 
 Essas são cinco maneiras de [verificar as habilidades de codificação dos desenvolvedores](https://www.codingame.com/work/guide-how-to-test-developers/) antes de contratá-los:
 
-1. Avalie seu portfólio de programação
+# 1. Avalie seu portfólio de programação
 
 Qualquer desenvolvedor apaixonado, por mais inexperiente que seja, deve ter um portfólio de programação.
 
@@ -32,7 +32,7 @@ Por fim, analisando o portfólio de um candidato, pesquisando o código-fonte de
 
 Uma boa olhada no portfólio de programação de um candidato fornece uma ideia de suas habilidades de codificação e experiência
 
-2. Dê uma olhada na conta do GitHub
+# 2. Dê uma olhada na conta do GitHub
 
 O [GitHub](https://github.com/) é um recurso inestimável ao contratar desenvolvedores. O GitHub serve como um showroom online, onde os desenvolvedores trabalham em projetos de código aberto e contribuem para as iniciativas de outros.
 
@@ -48,7 +48,7 @@ Como recrutador, antes de mergulhar nesse código para verificar se é limpo, le
 
 O GitHub NÃO é um currículo. É uma ótima maneira de ver exemplos de projetos de desenvolvedores, como aplicativos para dispositivos móveis, jogos, scripts, plugins etc. Mais importante ainda, permite ver como os desenvolvedores colaboram voluntariamente com colegas em projetos coletivos.
 
-3. Pergunte sobre como usam o Stack Overflow
+# 3. Pergunte sobre como usam o Stack Overflow
 
 [Stack Overflow](https://stackoverflow.com/) é, de forma resumida, um site de perguntas e respostas sobre tudo o que diz respeito à programação de computadores.
 
@@ -58,7 +58,7 @@ Os desenvolvedores podem fazer e responder perguntas sobre qualquer coisa relaci
 
 A taxa de reputação é ainda mais objetiva, já que é concedida pelos pares de profissão. Usuários com alta reputação no Stack Overflow são desenvolvedores que a) estão regularmente ativos no site b) fazem perguntas pertinentes c) fornecem respostas úteis graças à sua experiência.
 
-4. Codificação ao vivo
+# 4. Codificação ao vivo
 
 Como são provavelmente um dos desafios mais difíceis e estressantes que os desenvolvedores podem encontrar em um processo de recrutamento, as entrevistas de codificação ao vivo geralmente são mal vistas.
 
@@ -72,8 +72,7 @@ Os entrevistadores podem estar interessados em ver que tipo de perguntas o entre
 
 No fim das contas, o objetivo deste exercício não é produzir (nem avaliar) um pedaço de código perfeitamente construído e perfeitamente arrumado. De fato e em última instância, a codificação ao vivo permite que ambas as partes entendam uma à outra em um ambiente dinâmico de conversação.
 
-5. Testes de programação
-
+# 5. Testes de programação
 
 
 [Testes de codificação](https://www.codingame.com/work/solutions/coding-skill-assessment/) são uma das maneiras mais eficientes de avaliar os desenvolvedores antes da contratação.
