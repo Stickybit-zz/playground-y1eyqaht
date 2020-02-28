@@ -1,10 +1,10 @@
 ![Poner a prueba las habilidades de los desarrolladores](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
 
-Evaluar las habilidades de codificación de los programadores se ha convertido en un paso fundamental en todo proceso de selección técnica. En un [estudio llevado a cabo](https://www.codingame.com/work/tech-recruiting-survey-report-2019/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53093), descubrimos que el desafío principal que enfrenta el 60% de los encargados de selección de personal al momento de contratar desarrolladores es encontrar candidatos lo suficientemente calificados. En efecto, la mayoría de las malas contrataciones en tecnología se debe a la falta de habilidades técnicas.
+Evaluar las habilidades de codificación de los programadores se ha convertido en un paso fundamental en todo proceso de selección técnica. En un [estudio llevado a cabo](https://www.codingame.com/work/tech-recruiting-survey-report-2019/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094), descubrimos que el desafío principal que enfrenta el 60% de los encargados de selección de personal al momento de contratar desarrolladores es encontrar candidatos lo suficientemente calificados. En efecto, la mayoría de las malas contrataciones en tecnología se debe a la falta de habilidades técnicas.
 
 Puedo escuchar que estás pensando: _“un momento… ¿no se puede confiar en los CVs de los desarrolladores?”_. La respuesta es: no.
 
-[![Contratar a los desarrolladores de forma inteligente](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53093)
+[![Contratar a los desarrolladores de forma inteligente](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094)
 
 En primer lugar, los desarrolladores no son muy buenos vendiéndose a sí mismos, por lo tanto, puedes perderte grandes candidatos porque no llaman la atención en el papel.
 
@@ -12,7 +12,7 @@ En segundo lugar, porque las habilidades destacadas por el propio candidato no s
 
 Sin lugar a dudas, una variedad de habilidades es lo que convierte a un programador en un profesional talentoso, aunque las habilidades técnicas son las que podrás evaluar con más exactitud.
 
-A continuación incluimos 5 maneras de verificar las [habilidades de codificación de un programador](https://www.codingame.com/work/guide-how-to-test-developers/) antes de contratarlo:
+A continuación incluimos 5 maneras de verificar las [habilidades de codificación de un programador](https://www.codingame.com/work/guide-how-to-test-developers/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094) antes de contratarlo:
 
 # 1. Investiga su portfolio como programador
 
@@ -26,7 +26,7 @@ Debes prestar atención a la manera en la que cada candidato describe el context
 
 La buena comunicación siempre es útil en el trabajo de un desarrollador. De la misma manera, el portfolio es una prueba de la habilidad del candidato para explicar y plasmar cosas.
 
-Finalmente, analizar el portfolio de un candidato, así como revisar los códigos fuente de algunos proyectos antes de la [entrevista](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) puede servir para iniciar un diálogo y ayudar a formular preguntas más acertadas durante el proceso de selección.
+Finalmente, analizar el portfolio de un candidato, así como revisar los códigos fuente de algunos proyectos antes de la [entrevista](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094) puede servir para iniciar un diálogo y ayudar a formular preguntas más acertadas durante el proceso de selección.
 
 ![Echa un buen vistazo a la cartera de programación de tus candidatos](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
 _Un buen análisis del portfolio de un candidato programador puede darte una idea de sus habilidades de codificación y sus antecedentes._
@@ -72,11 +72,11 @@ A fin de cuentas, la intención del ejercicio no es producir (ni evaluar) una co
 
 # 5. Exámenes de programación
 
-Los [exámenes de programación](https://www.codingame.com/work/solutions/coding-skill-assessment/) constituyen una de las mejores maneras de evaluar a los desarrolladores antes de ser contratados.
+Los [exámenes de programación](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094) constituyen una de las mejores maneras de evaluar a los desarrolladores antes de ser contratados.
 
 En efecto, brindan un modelo probado para identificar y contratar desarrolladores eficientes. Así, los candidatos codifican a su manera a través de problemas reales y prácticos que podrían encontrar en una compañía (tales como encontrar un bicho en una pieza de codificación defectuosa o sincronizar correctamente una aplicación con multienlaces), lo que permite a los encargados de selección evaluar las habilidades de codificación de manera objetiva y eficiente.
 
-Tanto los reclutadores de tecnología como los gerentes de recursos humanos pueden diseñar exámenes de programación utilizando plataformas tales como [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/), eligiendo evaluar a los candidatos con un idioma de programación específico o a través de tecnologías múltiples ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
+Tanto los reclutadores de tecnología como los gerentes de recursos humanos pueden diseñar exámenes de programación utilizando plataformas tales como [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094), eligiendo evaluar a los candidatos con un idioma de programación específico o a través de tecnologías múltiples ([Java](https://www.codingame.com/work/java-interview-questions/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094), Angular, Python, etc.).
 
 La codificación de los candidatos es analizada automáticamente y los encargados de la selección tienen medidas de desempeño que van desde el dominio del idioma hasta el diseño, legibilidad y solidez de la codificación. Una vez completa, se publica un informe de evaluación que puede ser descargado y compartido para comparar fácilmente a los candidatos preseleccionados.
 
@@ -89,6 +89,6 @@ _Los desarrolladores pueden demostrar sus habilidades de codificación al enfren
 
 En resumen, te recomendamos que tengas en cuenta estos consejos a la hora de buscar tu próximo desarrollador: elimina las conjeturas y asegúrate de que el candidato sea el correcto sin lugar a dudas.
 
-[![Herramienta de evaluación de la capacidad de codificación](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53093)
+[![Herramienta de evaluación de la capacidad de codificación](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53094)
 
 
