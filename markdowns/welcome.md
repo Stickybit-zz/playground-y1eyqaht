@@ -1,97 +1,99 @@
-![Fähigkeiten von Testentwicklern](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
+![Teste as habilidades dos desenvolvedores](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
 
-Die Einschätzung der Programmierkenntnisse von Entwicklern ist inzwischen ein entscheidender Schritt in jedem technischen Rekrutierungsprozess. In einer [von uns durchgeführten Studie](https://www.codingame.com/work/tech-recruiting-survey-report-2019/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) haben wir ermittelt, dass die primäre Herausforderung für 60% der Personalverantwortlichen bei der Einstellung von Programmierern darin bestand, Kandidaten zu finden, die angemessen qualifiziert sind. In der Tat ist die Mehrheit der Fehlbesetzungen bei der Rekrutierung auf einen Mangel technischer Fähigkeiten zurückzuführen.
+Avaliar as habilidades de codificação dos programadores se tornou uma etapa essencial em qualquer processo de recrutamento técnico. Em [um estudo que realizamos](https://www.codingame.com/work/tech-recruiting-survey-report-2019/), descobrimos que o principal desafio encontrado por 60% dos recrutadores ao contratar desenvolvedores era o de encontrar candidatos suficientemente qualificados. De fato, a maioria das contratações problemáticas no recrutamento de tecnologia se resume à falta de habilidades técnicas.
 
-Sie denken vermutlich: _"Moment mal, können Sie sich denn nicht auf die Lebensläufe der Entwickler verlassen?"_. Bedauerlicherweise, nein.
+Você deve estar pensando: _ "Espera aí, você não pode confiar nos currículos dos desenvolvedores?"_. Bom, não.
+
+[![Contrate desenvolvedores de maneira inteligente](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/)
+
+Em primeiro lugar, como os desenvolvedores não são necessariamente bons em vender a si mesmos - você pode perder grandes candidatos porque aquilo que está no papel não os destaca.
+
+Em segundo lugar, como as habilidades autorreferidas não são confiáveis - se você depositar suas esperanças em um currículo brilhante, poderá se decepcionar com alguém que não atende exatamente às suas expectativas.
+
+Uma variedade de habilidades contribui para um programador talentoso - mas as habilidades técnicas são as que você pode avaliar com mais precisão.
+
+Essas são cinco maneiras de [verificar as habilidades de codificação dos desenvolvedores](https://www.codingame.com/work/guide-how-to-test-developers/) antes de contratá-los:
+
+1. Avalie seu portfólio de programação
+
+Qualquer desenvolvedor apaixonado, por mais inexperiente que seja, deve ter um portfólio de programação.
+
+Os portfólios são a melhor maneira para os desenvolvedores mostrarem suas habilidades de codificação por meio de projetos pessoais e uma chance única de causar uma boa impressão. Eles vêm em várias formas e tamanhos, variando de páginas solitárias na internet, para aqueles que buscam sua primeira função júnior, a projetos de software complexos, para candidatos seniores e gerenciais.
+
+Os portfólios são úteis no processo de recrutamento, pois mostram o nível de desenvolvimento dos candidatos, suas metas de carreira, as habilidades que estão focando adquirir etc.
+
+Observe como um candidato descreve o contexto de cada projeto: como eles se integraram a outras bibliotecas ou ferramentas? Eles colaboraram com outros desenvolvedores? Eles trabalharam em muitos projetos inacabados?
+
+Boas habilidades de comunicação sempre valem a pena na função de desenvolvedor, e um portfólio também é uma maneira de validar a capacidade do candidato de explicar e apresentar as coisas.
+
+Por fim, analisando o portfólio de um candidato, pesquisando o código-fonte de alguns projetos antes de uma [entrevista](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/), pode servir de base para o diálogo e ajudá-lo a elaborar perguntas personalizadas para usar durante o processo de contratação.
+
+![Veja bem o portfólio de programação de seus candidatos] (https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
+
+Uma boa olhada no portfólio de programação de um candidato fornece uma ideia de suas habilidades de codificação e experiência
+
+2. Dê uma olhada na conta do GitHub
+
+O [GitHub](https://github.com/) é um recurso inestimável ao contratar desenvolvedores. O GitHub serve como um showroom online, onde os desenvolvedores trabalham em projetos de código aberto e contribuem para as iniciativas de outros.
+
+Para os desenvolvedores, o objetivo de possuir um repositório GitHub é mostrar que eles podem escrever código legível e manejável, que outras pessoas possam entender ou acessar facilmente.
+
+Como recrutador, antes de mergulhar nesse código para verificar se é limpo, legível e estruturado, comece verificando métricas muito simples, como:
+
+- O **número de seguidores** (um sinal de reputação)
+- A **data em que o candidato ingressou no GitHub** (existe um filtro útil "membros mais recentes" nas opções de classificação no canto superior direito) como uma indicação do nível de experiência
+- **Palavras-chave relevantes** para idiomas e tecnologias
+- O **número de repositórios** que seu candidato possui (projetos que ele/a está criando e o que está puxando de outros) para ter uma ideia do tipo de projeto em que está envolvido
+- Sua atividade pública mostrada através do **número de contribuições** feitas no site (solicitações de recebimento, confirmações, problemas abertos)
+
+O GitHub NÃO é um currículo. É uma ótima maneira de ver exemplos de projetos de desenvolvedores, como aplicativos para dispositivos móveis, jogos, scripts, plugins etc. Mais importante ainda, permite ver como os desenvolvedores colaboram voluntariamente com colegas em projetos coletivos.
+
+3. Pergunte sobre como usam o Stack Overflow
+
+[Stack Overflow](https://stackoverflow.com/) é, de forma resumida, um site de perguntas e respostas sobre tudo o que diz respeito à programação de computadores.
+
+Os desenvolvedores podem fazer e responder perguntas sobre qualquer coisa relacionada à programação, e os membros ativos recebem pontos e distintivos por suas respostas e contribuições. O site possui muito conhecimento e todo desenvolvedor o utiliza sempre.
+
+É perfeito para medir o nível de conhecimento e o envolvimento de um candidato na comunidade de desenvolvimento. Você pode verificar rapidamente a reputação dos desenvolvedores no Stack Overflow, bem como suas principais respostas.
+
+A taxa de reputação é ainda mais objetiva, já que é concedida pelos pares de profissão. Usuários com alta reputação no Stack Overflow são desenvolvedores que a) estão regularmente ativos no site b) fazem perguntas pertinentes c) fornecem respostas úteis graças à sua experiência.
+
+4. Codificação ao vivo
+
+Como são provavelmente um dos desafios mais difíceis e estressantes que os desenvolvedores podem encontrar em um processo de recrutamento, as entrevistas de codificação ao vivo geralmente são mal vistas.
+
+De fato, ser capaz de pensar, codificar e se comunicar na presença de um entrevistador pode ser estressante para quem não tem prática. No entanto, do ponto de vista de um recrutador, os testes de programação ao vivo são uma fonte de informação verdadeiramente valiosa. Eles permitem que os recrutadores observem a lógica de um candidato, sua capacidade de explicar o que estão fazendo, como pensam e sua capacidade de codificar sob pressão.
+
+Eles não apenas permitem que os entrevistadores vejam, em tempo real, como o candidato desempenha por conta própria, apenas com o conhecimento de programação como ferramenta, mas também testam habilidades de comunicação e colaboração dentro de uma equipe (no caso de entrevistas coletivas).
+
+Geralmente, a codificação ao vivo é feita via compartilhamento de tela, onde o solicitante recebe um brief e é observado à medida que conclui a tarefa. Este tipo de exercício é muito diferente de um exame cronometrado. O objetivo do exercício não é fornecer uma resposta correta para a pergunta no menor espaço de tempo, mas considerar toda a sessão como um diálogo construtivo.
+
+Os entrevistadores podem estar interessados em ver que tipo de perguntas o entrevistado fará para entender o problema antes de resolvê-lo. Também é positivo saber se o candidato encontra dificuldades a qualquer momento.
+
+No fim das contas, o objetivo deste exercício não é produzir (nem avaliar) um pedaço de código perfeitamente construído e perfeitamente arrumado. De fato e em última instância, a codificação ao vivo permite que ambas as partes entendam uma à outra em um ambiente dinâmico de conversação.
+
+5. Testes de programação
 
 
-[![Entwickler auf clevere Art und Weise einstellen](https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067)
+
+[Testes de codificação](https://www.codingame.com/work/solutions/coding-skill-assessment/) são uma das maneiras mais eficientes de avaliar os desenvolvedores antes da contratação.
+
+Eles fornecem um modelo comprovado para identificar e contratar desenvolvedores proficientes. Os candidatos codificam seu caminho através de problemas reais e práticos que podem encontrar em uma empresa (como encontrar um bug em um pedaço de código defeituoso ou sincronizar corretamente um aplicativo multithread), permitindo que os recrutadores meçam suas habilidades de codificação de forma objetiva e eficiente.
+
+Tanto recrutadores de tecnologia como gerentes de RH podem configurar testes de programação usando plataformas como o [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/), optando por testar os candidatos em uma linguagem de programação específica ou mais várias tecnologias ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python etc.).
+
+O código dos candidatos é analisado automaticamente e os recrutadores recebem métricas de desempenho que variam do domínio do idioma ao design, legibilidade ou solidez do código.  Depois de concluído, um relatório de teste estará disponível para download e compartilhamento para comparar e selecionar candidatos de forma fácil.
+
+Além de otimizar o processo de contratação, esses testes também proporcionam uma experiência aprimorada ao candidato (em comparação com as discussões não técnicas que ocorrem com muita frequência durante a primeira entrevista). Os testes de programação são uma maneira de os recrutadores mostrarem aos desenvolvedores que eles são amigáveis à tecnologia.
+
+Os desafios de codificação economizam muito tempo para os recrutadores, enquanto asseguram suas contratações do ponto de vista técnico. Os testes de programação técnica online substituem com sucesso os testes de papel ou quadro branco, dando aos desenvolvedores a chance de demonstrar suas habilidades.
+
+![Testar desenvolvedores com puzzles práticos de codificação](https://w2.codingame.com/work/wp-content/uploads/2018/07/hand-holding-puzzle-piece-1.jpg)
+
+Os desenvolvedores podem demonstrar suas habilidades de codificação ao quebrar a cabeça em desafios e puzzles práticos de codificação
+
+Lembre-se de nossos conselhos ao procurar seu próximo desenvolvedor: elimine as suposições e saiba com certeza se ele é realmente bom.
+
+[![Ferramenta de avaliação de habilidades de codificação](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
 
 
-Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu verkaufen - es könnte sein, dass Ihnen am Ende großartige Bewerber entgehen, weil sie auf dem Papier nicht auffallen.
-
-Zweitens, weil die selbst genannten Fähigkeiten unzuverlässig sind - wenn Sie Ihre Hoffnungen auf einen glänzenden Lebenslauf setzen, könnten Sie von jemandem enttäuscht werden, der Ihren Erwartungen nicht ganz entspricht.
-
-Zahlreiche Fähigkeiten zeichnen einen talentierten Programmierer aus. Es sind jedoch die technischen Fähigkeiten, die Sie am akkuratesten einschätzen können.
-Hier sind fünf Möglichkeiten, die [Programmierfähigkeiten von Entwicklern zu überprüfen](https://www.codingame.com/work/guide-how-to-test-developers/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067), bevor Sie sie einstellen:
-
-# 1. Schauen Sie sich das Programmierer-Portfolio genauer an
-
-Jeder leidenschaftliche Entwickler, mag er auch noch so jung sein, sollte über ein aussagekräftiges Portfolio verfügen.
-
-Portfolios sind die beste Möglichkeit für Entwickler, ihre Programmierfähigkeiten mittels persönlicher Projekte zu präsentieren. Portfolios sind zudem eine einzigartige Chance, bleibenden Eindruck zu hinterlassen. Es gibt sie in vielen Formen und Größen, von einzelnen Webseiten für diejenigen, die sich als Junior-Entwickler etablieren möchten, bis hin zu komplexen Software-Projekten für Bewerber auf dem Senior- und Management-Level.
-
-Portfolios sind im Rekrutierungsprozess ausgesprochen hilfreich, denn sie belegen den Entwicklungsstand der Bewerber und zeigen ihre Karriereziele, die Fähigkeiten, die sie sich aneignen wollen.
-
-Achten Sie darauf, wie ein Kandidat den Kontext jedes Projekts beschreibt: Wie haben sie sich mit anderen Bibliotheken oder Tools integriert? Haben sie mit anderen Entwicklern zusammengearbeitet? Waren sie an vielen unvollendeten Projekten beteiligt?
-
-Gute Kommunikationsfähigkeiten werden sich in einer Entwicklerrolle stets auszahlen. Mit einem Portfolio kann man auch die Fähigkeit eines Kandidaten prüfen, Dinge zu erklären und zu präsentieren.
-
-Zudem können das Durchschauen des Portfolios eines Kandidaten sowie das Eindringen  in den Quellcode einiger Projekte vor einem [Vorstellungsgespräch](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) als Gesprächsgrundlage dienen. Es kann Ihnen helfen, spezielle Fragen zu erstellen, die Sie während des Einstellungsverfahrens verwenden können.
-
-Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
-
-
-![Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
-
-Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
-
-# 2. Werfen Sie einen Blick auf das GitHub-Profil
-
-[GitHub](https://github.com/) ist eine wertvolle Ressource bei der Einstellung von Entwicklern. GitHub dient als ein Online-Showroom, wo Entwickler an Open-Source-Projekten arbeiten und zu den Initiativen anderer beitragen.
-
-Für Entwickler besteht der Sinn und Zweck eines GitHub-Repositoriums darin, zu zeigen, dass sie lesbaren und wartungsfreundlichen Code schreiben können, den andere Leute leicht nachvollziehen oder in den sie einsteigen können.
-
-Bevor Sie als Recruiter in diesen Code eintauchen, um zu überprüfen, wie sauber, lesbar und strukturiert er ist, sollten Sie zunächst simple Metriken überprüfen, wie beispielsweise
-
--	Die **Anzahl der Follower** (Anzeichen für den Ruf)
--	Das **Datum, an dem der Kandidat GitHub beigetreten ist** (ein nützlicher "zuletzt beigetretener" Filter existiert in den Sortieroptionen oben rechts), als Hinweis auf das Erfahrungsniveau
--	**Relevante Schlüsselwörter** für Sprachen und Technologien
--	Die **Anzahl der Repositories**, die Ihr Bewerber hat (Projekte, die er erstellt und was er von anderen mittels "forking" erhält), um ein Gefühl für die Art der Projekte zu bekommen, an denen er beteiligt ist
--	Ihre öffentliche Aktivität macht sich in der **Anzahl der Beiträge** bemerkbar, die auf der Website geleistet wurden (Pull-Anfragen, Commits, eröffnete Themen)
-
-GitHub ist KEIN Lebenslauf. Es ist eine ideale Möglichkeit, einen Einblick in die Arbeitsproben der Entwickler zu erhalten, wie beispielsweise mobile Anwendungen, Spiele, Skripte, Plugins, etc. Aber vor allem können Sie sehen, wie Entwickler freiwillig mit Gleichgesinnten an gemeinsamen Projekten arbeiten.
-
-# 3. Fragen Sie nach der Verwendung von Stack Overflow
-
-[Stack Overflow](https://stackoverflow.com/) ist im Grunde eine Frage- und Antwortseite rund um das Thema Computerprogrammierung.
-Entwickler können Fragen zu allem stellen und beantworten, was mit Programmierung zu tun hat, und aktive Mitglieder erhalten für ihre Antworten und Beiträge Punkte und Badges. Die Website enthält ein facettenreiches Wissen und jeder Entwickler wird sie täglich nutzen.
-
-Sie ist ideal dafür geeignet, um den Wissensstand eines Kandidaten und seine Beteiligung an der Entwicklergemeinschaft zu beurteilen. Sie können den Ruf der Entwickler bei Stack Overflow sowie ihre Top-Antworten schnell überprüfen.
-Die Reputationsrate ist umso objektiver, da sie von Gleichgesinnten gewährt wurde. Hochangesehene Benutzer bei Stack Overflow sind Entwickler, die erstens regelmäßig auf der Website aktiv sind, zweitens sachdienliche Fragen stellen und drittens, dank ihres Fachwissens hilfreiche Antworten geben.
-
-# 4. Live-Kodierung
-
-Da sie wahrscheinlich eine der härtesten und anstrengendsten Herausforderungen sind, denen Entwickler bei einem Rekrutierungsprozess begegnen können, werden Interviews mit Live-Coding oftmals verunglimpft.
-
-Tatsächlich kann es ohne jegliche Übung erheblichen Stress erzeugen, in Gegenwart eines Interviewers zu denken, zu codieren und kommunizieren zu müssen. Aus der Sicht von Personalverantwortlichen sind Live-Programmierungstests allerdings eine ausgesprochen wertvolle Informationsquelle. Sie ermöglichen es dem Personalverantwortlichen, die Logik eines Kandidaten zu verfolgen, seine Fähigkeit zu erklären, was er da grade tut, wie er denkt und seine Fähigkeit, unter Druck zu kodieren.
-
-So können Interviewer nicht nur in Echtzeit sehen, wie sich ein Kandidat allein mit seinen Programmierkenntnissen verhält. Sie testen überdies die kommunikativen und kollaborativen Fähigkeiten innerhalb eines Teams (sofern kollektive Interviews stattfinden).
-
-Gewöhnlich erfolgt die Live-Codierung über die gemeinsame Bildschirmnutzung, bei der der Bewerber ein Briefing erhält und dann bei der Erfüllung der Aufgabe beobachtet wird. Diese Art der Übung unterscheidet sich stark von einer Prüfung, die an einen bestimmten Zeitrahmen geknüpft ist. Die Übung zielt nicht darauf, binnen kürzester Zeit eine korrekte Antwort auf die Frage zu geben, sondern die gesamte Sitzung als konstruktiven Dialog zu betrachten.
-
-Die Interviewer könnten sich dafür interessieren, welche Art von Fragen der Befragte stellen wird, um das Problem besser zu verstehen, bevor er sich an die Lösung des Problems macht. Sie könnten es auch begrüßen, darauf hingewiesen zu werden, sollte der Kandidat irgendwann auf Schwierigkeiten stoßen.
-
-Letztlich besteht das Ziel dieser Übung nicht darin, ein perfekt konstruiertes, ordentliches Stück Code zu produzieren (oder dies zu bewerten). In der Tat geht es bei der Live-Codierung darum, dass beide Parteien die Möglichkeit haben, in einer dynamischen, dialogorientierten Umgebung Verständnis füreinander zu entwickeln.
-
-# 5. Tests zur Programmierung
-
-[Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
-Sie bieten ein bewährtes Modell um kompetente Entwickler zu identifizieren und einzustellen. Die Kandidaten kodieren sich durch reale, praktische Probleme, die in einem Unternehmen auftreten können (wie beispielsweise das Auffinden eines Fehlers in einem defekten Teil eines Codes oder die ordnungsgemäße Synchronisierung einer Multithread-Anwendung), und ermöglichen es den Personalverantwortlichen, ihre Fähigkeiten im Bereich der Kodierung objektiv und effizient zu beurteilen.
-
-Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067) einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien ([Java](https://www.codingame.com/work/java-interview-questions/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067), Angular, Python usw.) testen möchten.
-
-Der Code der Bewerber wird automatisch analysiert und den Personalverantwortlichen werden Leistungskennzahlen übermittelt. Diese Kennzahlen reichen von der Sprachbeherrschung bis hin zum Code-Design, der Lesbarkeit oder Solidity. Nach Beendigung der Analyse steht ein Testbericht zum Herunterladen und Austauschen zur Verfügung. So lassen sich die Kandidaten einfach miteinander vergleichen und in die engere Wahl ziehen.
-
-Neben der Optimierung des Einstellungsverfahrens bieten diese Tests dazu eine optimierte Erfahrung der Kandidaten (verglichen mit den nicht-technischen Gesprächen, die häufig während eines ersten Gesprächs stattfinden). Programmiertests sind eine Möglichkeit für Personalvermittler, Entwicklern zu zeigen, dass sie technikaffin sind.
-
-Durch Programmierherausforderungen sparen Personalvermittler viel Zeit. Zugleich sichern sich bezüglich der technischen Fähigkeiten ihrer Bewerber ab. 
-
-Technische Online-Programmierungstests ersetzen auf sinnvolle Weise Papier- oder Whiteboard-Tests und ermöglichen Entwicklern, ihre Fähigkeiten unter Beweis zu stellen.
-
-![Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktische Programmieraufgaben in Angriff nehmen.](https://w2.codingame.com/work/wp-content/uploads/2018/07/hand-holding-puzzle-piece-1.jpg)
-Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktische Programmieraufgaben in Angriff nehmen.
-
-Bedenken Sie unseren Ratschlag, wenn Sie Ihre nächsten Entwickler suchen: Verzichten Sie auf das Rätselraten und seien Sie bei Ihrer Kandidatenwahl auf der sicheren Seite.
-
-[![Werkzeug zur Bewertung der Programmierfähigkeiten](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53067)
